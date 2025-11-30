@@ -15,3 +15,5 @@ Genetic Algorithms are suitable for various combinatorial optimization problems,
 
 ### Project summary:
 This project applies GA to automatically search for and optimize task assignments. Each generation includes initialization, fitness evaluation, selection, crossover, mutation, and elitism. The objective is to minimize the total task completion time, and the results output the best allocation and total time for each test case, which are written to the file results.txt.
+
+## KNN
